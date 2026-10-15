@@ -12,10 +12,15 @@ Eine App für Fotografen und Videografen, um Foto-Locations zu finden, zu teilen
 
 ## Stand
 
-`prototyp-claude/` enthält den ersten Prototyp. Er läuft als Artifact auf claude.ai und nutzt dort die eingebaute
-Datenbank. Außerhalb von claude.ai zeigt er Karte und Licht-Planer, kann aber noch nichts speichern.
+- `index.html` – die Web-App (läuft über GitHub Pages). Straßenkarte von OpenFreeMap, Standort, Adresssuche,
+  Licht-Planer, Spots, Kommentare und Bewertungen. **Speichert vorerst nur im eigenen Browser** (localStorage);
+  die gemeinsame Online-Datenbank folgt.
+- `data/beispiel-spots.json` – Beispiel-Spots für den ersten Start.
+- `prototyp-claude/` – der erste Prototyp, der als Artifact auf claude.ai läuft.
 
 ## Datenquellen
+- Straßenkarte: [OpenFreeMap](https://openfreemap.org) mit Daten von [OpenStreetMap](https://www.openstreetmap.org/copyright) (ODbL)
+- Adresssuche: [Nominatim](https://nominatim.org) (OpenStreetMap)
 
 - Kartengrundlage: [Natural Earth](https://www.naturalearthdata.com/) (gemeinfrei), über das npm-Paket `world-atlas`
 - Städte: [GeoNames](https://www.geonames.org/) (CC BY 4.0), über das npm-Paket `all-the-cities`

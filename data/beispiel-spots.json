@@ -1,0 +1,161 @@
+[
+ {
+  "id": "bsp-bastei",
+  "data": {
+   "name": "Basteibrücke, Sächsische Schweiz",
+   "cat": "aussicht",
+   "lat": 50.962,
+   "lng": 14.073,
+   "desc": "Beispiel-Spot (Startdaten). Sandsteinbrücke über dem Elbtal, bekannt für Nebel bei Sonnenaufgang.",
+   "bestTimes": [
+    "Sonnenaufgang",
+    "Goldene Stunde morgens"
+   ],
+   "parking": "",
+   "changing": "",
+   "crowd": 0,
+   "risk": "",
+   "legal": "",
+   "drone": "",
+   "photos": [],
+   "videos": [],
+   "example": true,
+   "createdAt": 1792000000000
+  }
+ },
+ {
+  "id": "bsp-marienbruecke",
+  "data": {
+   "name": "Marienbrücke, Blick auf Neuschwanstein",
+   "cat": "aussicht",
+   "lat": 47.5568,
+   "lng": 10.7497,
+   "desc": "Beispiel-Spot (Startdaten). Klassischer Blick auf Schloss Neuschwanstein.",
+   "bestTimes": [],
+   "parking": "",
+   "changing": "",
+   "crowd": 0,
+   "risk": "",
+   "legal": "",
+   "drone": "",
+   "photos": [],
+   "videos": [],
+   "example": true,
+   "createdAt": 1792000000000
+  }
+ },
+ {
+  "id": "bsp-brandenburger-tor",
+  "data": {
+   "name": "Brandenburger Tor, Berlin",
+   "cat": "stadt",
+   "lat": 52.5163,
+   "lng": 13.3777,
+   "desc": "Beispiel-Spot (Startdaten). Wahrzeichen am Pariser Platz.",
+   "bestTimes": [
+    "Blaue Stunde"
+   ],
+   "parking": "",
+   "changing": "",
+   "crowd": 0,
+   "risk": "",
+   "legal": "",
+   "drone": "",
+   "photos": [],
+   "videos": [],
+   "example": true,
+   "createdAt": 1792000000000
+  }
+ },
+ {
+  "id": "bsp-koeln-rheinboulevard",
+  "data": {
+   "name": "Rheinboulevard Deutz, Blick auf den Kölner Dom",
+   "cat": "stadt",
+   "lat": 50.9395,
+   "lng": 6.9705,
+   "desc": "Beispiel-Spot (Startdaten). Treppenanlage am Rhein mit Blick auf Dom und Hohenzollernbrücke.",
+   "bestTimes": [
+    "Sonnenuntergang",
+    "Blaue Stunde"
+   ],
+   "parking": "",
+   "changing": "",
+   "crowd": 0,
+   "risk": "",
+   "legal": "",
+   "drone": "",
+   "photos": [],
+   "videos": [],
+   "example": true,
+   "createdAt": 1792000000000
+  }
+ },
+ {
+  "id": "bsp-landungsbruecken",
+  "data": {
+   "name": "Landungsbrücken, Hamburg",
+   "cat": "wasser",
+   "lat": 53.5455,
+   "lng": 9.967,
+   "desc": "Beispiel-Spot (Startdaten). Hafenpanorama an der Elbe.",
+   "bestTimes": [],
+   "parking": "",
+   "changing": "",
+   "crowd": 0,
+   "risk": "",
+   "legal": "",
+   "drone": "",
+   "photos": [],
+   "videos": [],
+   "example": true,
+   "createdAt": 1792000000000
+  }
+ },
+ {
+  "id": "bsp-pragser-wildsee",
+  "data": {
+   "name": "Pragser Wildsee, Südtirol",
+   "cat": "natur",
+   "lat": 46.6946,
+   "lng": 12.0855,
+   "desc": "Beispiel-Spot (Startdaten). Bergsee mit Bootshaus in den Dolomiten.",
+   "bestTimes": [
+    "Sonnenaufgang"
+   ],
+   "parking": "Im Sommer ist die Zufahrt zeitweise beschränkt. Vor der Anreise prüfen.",
+   "changing": "",
+   "crowd": 0,
+   "risk": "",
+   "legal": "",
+   "drone": "unklar",
+   "photos": [],
+   "videos": [],
+   "example": true,
+   "createdAt": 1792000000000
+  }
+ },
+ {
+  "id": "bsp-drei-zinnen",
+  "data": {
+   "name": "Drei Zinnen, Dolomiten",
+   "cat": "nacht",
+   "lat": 46.6187,
+   "lng": 12.3022,
+   "desc": "Beispiel-Spot (Startdaten). Bekanntes Bergmotiv, beliebt für Milchstraßen-Aufnahmen.",
+   "bestTimes": [
+    "Nacht / Milchstraße"
+   ],
+   "parking": "",
+   "changing": "",
+   "crowd": 0,
+   "risk": "",
+   "legal": "",
+   "drone": "",
+   "photos": [],
+   "videos": [],
+   "example": true,
+   "createdAt": 1792000000000
+  }
+ }
+]
