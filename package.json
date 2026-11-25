@@ -1,0 +1,9 @@
+{
+  "name": "fotoloco",
+  "private": true,
+  "description": "Foto-Locations finden, teilen und planen",
+  "type": "module",
+  "scripts": {
+    "test": "TZ=Asia/Tokyo node --test tests/*.test.mjs"
+  }
+}
